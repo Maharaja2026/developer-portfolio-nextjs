@@ -11,30 +11,30 @@ import two from '../assets/svg/projects/two.svg'
 export const projectsData = [
     {
         id: 1,
-        projectName: 'Ayla Networks',
-        projectDesc: 'This project about Simplifying the Development of Smart Home & IoT Solutions.',
-        tags: ['React', 'SAAS', 'React Bootstrap'],
-        code: '',
-        demo: 'https://www.aylanetworks.com/',
-        image: six
+        projectName: 'Travel Planning System',
+        projectDesc: 'This project about travel agency management.',
+        tags: ['Java', 'Springboot', 'MySQL'],
+        code: 'https://github.com/Maharaja2026/Travel-Planning-System.git',
+        demo: '',
+        image: eight
     },
     {
         id: 2,
-        projectName: 'Jewelry Niche',
-        projectDesc: 'This project is a Jewelry shop, Customer can be buy product and manage them and make payment.',
-        tags: ['React', 'Express', 'Material Ui'],
+        projectName: 'Hotel Billing application',
+        projectDesc: 'This project is a food shop management system that can print receipts for bills, manage products, and provide an overview of expenses and sales reports.',
+        tags: ['Next js', 'Tailwind', 'Python', 'FastAPI', 'PostgreSQL'],
         code: 'https://github.com/said7388/jewelry-niche',
-        demo: 'https://pandora-web.netlify.app/',
+        demo: '',
         image: seven
     },
     {
         id: 3,
-        projectName: 'Travel Agency',
-        projectDesc: 'This project about travel agency management.',
-        tags: ['React', 'CSS', 'Material Ui'],
-        code: 'https://github.com/said7388/Travel-Agency-client',
-        demo: 'https://travel-agency-fc58b.web.app/',
-        image: eight
+        projectName: 'Patient tracking and Buy Medicine',
+        projectDesc: 'This project involves the development of an Android application for viewing and managing patient data.',
+        tags: ['Java', 'Springboot', 'React', 'Tailwind', 'MySQL'],
+        code: 'https://github.com/Maharaja2026/User-Application---React-JS.git',
+        demo: '',
+        image: four
     },
     {
         id: 4,
